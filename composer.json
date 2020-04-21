@@ -1,0 +1,17 @@
+{
+    "name": "zmh0122/p",
+    "description": "The zmh0122 p.",
+    "keywords": ["p", "zmh0122"],
+    "license": "MIT",
+    "type": "libray",
+    "authors":[
+        {
+            "name":"zmh0122",
+            "email":"924674109@qq.com"
+        }
+    ],
+    "minimum-stability":"dev",
+    "autoload":{
+        "files":["tools.php"]
+    }
+}
